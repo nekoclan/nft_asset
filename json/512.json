@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#512",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/512.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Piebald Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Winter Jacket Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Serious Serious Eye"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "none"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#3709",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/3709.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CTC Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Double Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fish"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rabbit"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Helpless"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Game Controller"
+    }
+  ]
+}

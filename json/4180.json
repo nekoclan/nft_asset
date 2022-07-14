@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#4180",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/4180.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Wave"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pikachu"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped Shirt Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fish"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Serious Serious Eye"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "none"
+    }
+  ]
+}

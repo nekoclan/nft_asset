@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#1425",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/1425.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flesh red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Persian cat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polka-dot Shirt Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kitty"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Cafe"
+    }
+  ]
+}

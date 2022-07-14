@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#1615",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/1615.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bowie Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trash Lid Gold"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "A Sharp Sword Gold copy"
+    }
+  ]
+}

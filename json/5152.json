@@ -1,0 +1,35 @@
+{
+  "name": "nekoclan#5152",
+  "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
+  "image": "ipfs://NewUriToReplace/5152.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "CTC Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "doubting"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Hat N "
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Cafe Gold copy"
+    }
+  ]
+}
