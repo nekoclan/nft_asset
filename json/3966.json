@@ -1,7 +1,7 @@
 {
   "name": "nekoclan#3966",
   "description": "!nya!Here are 5,666 nekos living on Neko Islands!",
-  "image": "ipfs://NewUriToReplace/3966.png",
+  "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/3966.png",
   "attributes": [
     {
       "trait_type": "Background",
