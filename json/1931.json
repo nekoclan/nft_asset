@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1931.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Gradient Purple"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Calico"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Kimono Blue"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Satisfied"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Serious"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "Heart"
+      "trait_type": "1/1",
+      "value": "Ninja Neko No2"
     }
   ]
 }

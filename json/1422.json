@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1422.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Piebald Grey 2"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Sailor"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Satisfied"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Bored"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "none"
+      "trait_type": "1/1",
+      "value": "Jurassic Neko"
     }
   ]
 }

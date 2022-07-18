@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/3333.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Flesh red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Kimono Blue"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Cute"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "doubting"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "none"
+      "trait_type": "1/1",
+      "value": "1ETH = 1ETH"
     }
   ]
 }

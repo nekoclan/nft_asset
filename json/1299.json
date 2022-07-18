@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1299.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Gradient Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Pikachu"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Green Grid Tshirt "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Unhappy"
-    },
-    {
-      "trait_type": "Head",
-      "value": "CTC neko"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Sleepy"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "none"
+      "trait_type": "1/1",
+      "value": "CoolCat Neko"
     }
   ]
 }

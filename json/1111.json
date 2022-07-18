@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1111.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Scarf Red"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "CTC Mouth"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Alien"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "none"
+      "trait_type": "1/1",
+      "value": "Sweetmeats Shit"
     }
   ]
 }

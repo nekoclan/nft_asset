@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1121.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "CTC Yellow"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Double Grey"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Dino Shirt"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Cute"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Pink Bow"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Squint"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "A Sharp Sword"
+      "trait_type": "1/1",
+      "value": "Black And White Shit"
     }
   ]
 }

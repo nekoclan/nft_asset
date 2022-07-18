@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/4123.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Superman"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Cool Face"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Double"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "none"
+      "trait_type": "1/1",
+      "value": "Noctilucent Iight Shit"
     }
   ]
 }

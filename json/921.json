@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/921.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Double Blue"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "White Shirt Overalls"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Vampire"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Squint"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "Diamond"
+      "trait_type": "1/1",
+      "value": "Ice Shit"
     }
   ]
 }

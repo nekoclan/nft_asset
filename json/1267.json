@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1267.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black ear"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Yellow Grid Tshirt "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Vampire"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Cool Hat"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Wicked"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "Game Controller"
+      "trait_type": "1/1",
+      "value": "Starry Sky Neko"
     }
   ]
 }

@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1521.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Gradient Forest Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Yellow White"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Polka-dot Shirt Green"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Vampire"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Coronet "
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Bored"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "None"
+      "trait_type": "1/1",
+      "value": "Kumo Neko"
     }
   ]
 }

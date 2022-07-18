@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1188.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Mint"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Piebald Yellow"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Winter Jacket Pink"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Angry"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "A Sharp Sword"
+      "trait_type": "1/1",
+      "value": "Asyuki Neko"
     }
   ]
 }

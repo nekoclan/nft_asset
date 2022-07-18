@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/999.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "kumo-bg"
-    },
-    {
-      "trait_type": "Body",
-      "value": "CTC Skin"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Unhappy"
-    },
-    {
-      "trait_type": "Head",
-      "value": "11"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "Balloon"
+      "trait_type": "1/1",
+      "value": "Gold Shit"
     }
   ]
 }

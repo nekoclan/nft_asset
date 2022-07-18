@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/2123.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Gradient Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": "CTC Skin"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Collar Shirt Green"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Scorn Eye"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "None"
+      "trait_type": "1/1",
+      "value": "Ninja Neko No3"
     }
   ]
 }

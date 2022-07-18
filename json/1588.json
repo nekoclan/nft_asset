@@ -4,32 +4,8 @@
   "image": "https://raw.githubusercontent.com/nekoclan/nft_asset/main/images/1588.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Neko Gold"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Shirt Gold"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Unhappy"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Double"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Trash Lid Gold"
-    },
-    {
-      "trait_type": "Hands",
-      "value": "Wired Intercom Gold copy"
+      "trait_type": "1/1",
+      "value": "Ninja Neko No1"
     }
   ]
 }
